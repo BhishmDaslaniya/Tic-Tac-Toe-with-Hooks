@@ -1,6 +1,6 @@
 # Learning Source : [Scrimba](https://scrimba.com/g/greactgame)
 ##### Special Thanks to Thomas Weibenfalk!
-
+---------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
